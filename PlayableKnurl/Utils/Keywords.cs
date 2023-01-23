@@ -1,6 +1,6 @@
 using System;
 
-namespace ModName.Utils {
+namespace PlayableKnurl.Utils {
     public static class Keywords {
         public static string Poison =  "KEYWORD_POISON";
         public static string Regenerative = "KEYWORD_RAPID_REGEN";
